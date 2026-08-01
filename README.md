@@ -1,4 +1,4 @@
-# Minecraft Modlama Merkezi
+# Minecraft Mod Merkezi
 
 Koyu temalı, modern masaüstü mod yönetim uygulaması.
 
