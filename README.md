@@ -16,9 +16,7 @@ proje/
 
 ## Kurulum
 
-```bash
-pip install -r requirements.txt
-python main.py
+```pyinstaller --noconfirm --onefile --windowed --add-data "mods;mods" --add-data "fabric_installer;fabric_installer" --add-data "shader_files;shader_files" --icon=icon.ico --hidden-import modrinth_api --name "MinecraftModMerkezi" main.py
 ```
 
 ## .exe Derleme (PyInstaller)
