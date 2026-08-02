@@ -9,7 +9,7 @@ proje/
 ├── main.py
 ├── requirements.txt
 ├── mods/                  ← .jar mod dosyalarını buraya koyun
-├── assets/                ← ikonlar ve görseller
+├── assets/                
 └── fabric\\\_installer/
     └── fabric-installer-1.1.1\\\_(1).exe
 ```
