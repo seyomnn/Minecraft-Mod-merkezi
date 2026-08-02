@@ -1,6 +1,6 @@
-# Minecraft Mod Merkezi
+# Minecraft Mod Merkezi (Yapay zeka ile yapılmıştır)
 
- Masaüstü mod yönetim uygulaması. (Yapay zeka ile yapılmıştır)
+ Masaüstü mod yönetim uygulaması. 
 
 ## Klasör Yapısı
 
