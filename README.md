@@ -83,6 +83,4 @@ Kullanıcılar uygulamayı açtığında otomatik olarak yeni sürüm algılanı
 
 ---
 
-##  Lisans
 
-Bu proje açık kaynaklıdır. Kaynak kodu incelemek, değiştirmek ve dağıtmak serbesttir.
